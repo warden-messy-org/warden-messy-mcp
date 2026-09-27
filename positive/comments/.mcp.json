@@ -1,0 +1,12 @@
+{
+  // servers used by the release job
+  "mcpServers": {
+    "release": {
+      "command": "npx", /* trailing commas below */
+      "args": ["-y", "@example/release-server",],
+      "env": {
+        "RELEASE_TOKEN": "REDACTED-TEST-KEY-17",
+      },
+    },
+  },
+}
