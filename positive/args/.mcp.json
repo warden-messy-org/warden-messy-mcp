@@ -1,0 +1,1 @@
+{"mcpServers":{"cli":{"command":"npx","args":["-y","@example/mcp-server","--api-key","REDACTED-TEST-KEY-13"]}}}
